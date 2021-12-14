@@ -1,9 +1,7 @@
 /******************************************************************************
 written by: Robert Arentzen @ University of Illinois Springfield
 raren3@uis.edu
-CSC 389 Project #2
-Fall 2019
-Prof Jack Reynolds
+
 Date: 12/06/2019
 
 *******************************************************************************/
